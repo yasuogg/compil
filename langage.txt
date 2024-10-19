@@ -1,0 +1,5 @@
+Program ia_2024
+var
+int x,y,z;
+begin
+end
